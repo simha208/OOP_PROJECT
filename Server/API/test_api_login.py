@@ -41,5 +41,14 @@ class TestLogin():
         x = requests.post(url, data=myodj)
         assert x.status_code == 500
         assert x.elapsed.total_seconds() < 5
+        
+        
+       @pytest.mark.sanity
+    def test_correct(self):
+        url = "https://wetechsocial.herokuapp.com/auth/login"
+        myodj= {"email": "simhaamara@gmail.com", "password": "202020888"}
+        x = requests.post(url, data=myodj)
+        assert x.status_code == 500
+        assert x.elapsed.total_seconds() < 5
 
 
