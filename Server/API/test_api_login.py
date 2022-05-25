@@ -32,7 +32,7 @@ class TestLogin():
         body = "username: betty"
         x = requests.get(url, data=body)
         assert x.status_code == 200
-        assert x.elapsed.total_seconds() <5
+        assert x.elapsed.total_seconds() <10
 
     @pytest.mark.sanity
     def test__incorrect(self):
@@ -40,7 +40,7 @@ class TestLogin():
         myodj= {"email": "simhaamara2020@gmail.com", "password": "202020888"}
         x = requests.post(url, data=myodj)
         assert x.status_code == 500
-        assert x.elapsed.total_seconds() < 5
+        assert x.elapsed.total_seconds() < 10
         
         
        @pytest.mark.sanity
@@ -49,6 +49,5 @@ class TestLogin():
         myodj= {"email": "simhaamara@gmail.com", "password": "202020888"}
         x = requests.post(url, data=myodj)
         assert x.status_code == 500
-        assert x.elapsed.total_seconds() < 5
-
+        assert x.elapsed.total_seconds() < 10
 
