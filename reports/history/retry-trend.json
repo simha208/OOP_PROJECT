@@ -1,0 +1,161 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/regraition/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 19,
+    "retry" : 81
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/regraition/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 19,
+    "retry" : 75
+  }
+}, {
+  "buildOrder" : 37,
+  "reportUrl" : "http://localhost:8080/job/first_job/37/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 36,
+  "reportUrl" : "http://localhost:8080/job/first_job/36/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 35,
+  "reportUrl" : "http://localhost:8080/job/first_job/35/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 34,
+  "reportUrl" : "http://localhost:8080/job/first_job/34/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 33,
+  "reportUrl" : "http://localhost:8080/job/first_job/33/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 32,
+  "reportUrl" : "http://localhost:8080/job/first_job/32/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 56
+  }
+}, {
+  "buildOrder" : 31,
+  "reportUrl" : "http://localhost:8080/job/first_job/31/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 56
+  }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "http://localhost:8080/job/first_job/30/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 48
+  }
+}, {
+  "buildOrder" : 29,
+  "reportUrl" : "http://localhost:8080/job/first_job/29/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 28,
+  "reportUrl" : "http://localhost:8080/job/first_job/28/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:8080/job/first_job/27/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 14,
+    "retry" : 39
+  }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/first_job/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/first_job/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/first_job/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/first_job/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 10,
+    "retry" : 25
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/first_job/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 10,
+    "retry" : 19
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "http://localhost:8080/job/first_job/21/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 10,
+    "retry" : 16
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "http://localhost:8080/job/first_job/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 6,
+    "retry" : 6
+  }
+} ]

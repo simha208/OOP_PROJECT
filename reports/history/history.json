@@ -1,0 +1,2395 @@
+{
+  "910075861338afc5262143ff265dca17" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "de7a7b392922e87d",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/de7a7b392922e87d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478978368,
+        "stop" : 1653478978615,
+        "duration" : 247
+      }
+    }, {
+      "uid" : "86d06f98bdd964e7",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/86d06f98bdd964e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478938690,
+        "stop" : 1653478938936,
+        "duration" : 246
+      }
+    } ]
+  },
+  "8cd1b73ac969af5e250c87d867a3e448" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "d05459cbee842153",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/d05459cbee842153",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424514879,
+        "stop" : 1653424515269,
+        "duration" : 390
+      }
+    }, {
+      "uid" : "c29e484b35b78613",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/c29e484b35b78613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324532295,
+        "stop" : 1653324532529,
+        "duration" : 234
+      }
+    }, {
+      "uid" : "332581ed60c7a73f",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/332581ed60c7a73f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324141770,
+        "stop" : 1653324142010,
+        "duration" : 240
+      }
+    }, {
+      "uid" : "5018877306c112ec",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/5018877306c112ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324141770,
+        "stop" : 1653324142010,
+        "duration" : 240
+      }
+    }, {
+      "uid" : "bb24e8c5de27c795",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/bb24e8c5de27c795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653320870518,
+        "stop" : 1653320870801,
+        "duration" : 283
+      }
+    }, {
+      "uid" : "bc41b81e658b6172",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/bc41b81e658b6172",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653319485647,
+        "stop" : 1653319485922,
+        "duration" : 275
+      }
+    } ]
+  },
+  "5822824577f4a86a5370dd193ca8a03c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "6db5fceae148e009",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/6db5fceae148e009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "6b9b92381f941bfe",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/6b9b92381f941bfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "5572b2df95556bcd",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/5572b2df95556bcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "b2d25dc0d06cd400",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/b2d25dc0d06cd400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "89de0eb7835b8f9d",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/89de0eb7835b8f9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "252b9718bfb661ae",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/252b9718bfb661ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "7a3d4dcaf7615b79",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/7a3d4dcaf7615b79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472744482,
+        "stop" : 1653472745362,
+        "duration" : 880
+      }
+    }, {
+      "uid" : "bd55474f39c45b2d",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/bd55474f39c45b2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471734601,
+        "stop" : 1653471735377,
+        "duration" : 776
+      }
+    }, {
+      "uid" : "576ee3e6c3a6ff2",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/576ee3e6c3a6ff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471734601,
+        "stop" : 1653471735377,
+        "duration" : 776
+      }
+    }, {
+      "uid" : "f9efbca96e7a0bc7",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/f9efbca96e7a0bc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471396780,
+        "stop" : 1653471397524,
+        "duration" : 744
+      }
+    }, {
+      "uid" : "d8707ca42b1c3b3f",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/d8707ca42b1c3b3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470532067,
+        "stop" : 1653470532829,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "739df6bf59b14536",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/739df6bf59b14536",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470532067,
+        "stop" : 1653470532829,
+        "duration" : 762
+      }
+    } ]
+  },
+  "e078a4522cb53dc63c164f10762281a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "97e76c981afbab72",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/97e76c981afbab72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323993400,
+        "stop" : 1653323994094,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "329420922af963c0",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/329420922af963c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323993400,
+        "stop" : 1653323994094,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "467c9172f2858176",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/467c9172f2858176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323993400,
+        "stop" : 1653323994094,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "1d31c7e7037ea950",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/1d31c7e7037ea950",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323993400,
+        "stop" : 1653323994094,
+        "duration" : 694
+      }
+    } ]
+  },
+  "536cd8a18fd2d7ac8c849dbdffb9127f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "ecadd7fc152b5e0b",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/ecadd7fc152b5e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478661028,
+        "stop" : 1653478661708,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "f106950acbcf90a0",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/f106950acbcf90a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478661028,
+        "stop" : 1653478661708,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "7bb48653cece3810",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/7bb48653cece3810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "2e2524afd2952aaf",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/2e2524afd2952aaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "414e398f8dd64585",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/414e398f8dd64585",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "63d518c5d8c27688",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/63d518c5d8c27688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "8ceddd88ebf27bbd",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/8ceddd88ebf27bbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "c9b34c5060f2f932",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/c9b34c5060f2f932",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "c82dfffa528bf72d",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/c82dfffa528bf72d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "efaf61de5b427cdd",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/efaf61de5b427cdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "500a64472708f510",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/500a64472708f510",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "1385ac448f91a64a",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/1385ac448f91a64a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470461149,
+        "stop" : 1653470461862,
+        "duration" : 713
+      }
+    } ]
+  },
+  "387886e1b4449274556073417e632ed7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5a9fbb30be637e8",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/b5a9fbb30be637e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424185328,
+        "stop" : 1653424186142,
+        "duration" : 814
+      }
+    } ]
+  },
+  "9114b8d743d60212ccd9336b4fd5edfe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "181241a008b2ae18",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/181241a008b2ae18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424186148,
+        "stop" : 1653424186970,
+        "duration" : 822
+      }
+    } ]
+  },
+  "5a3ceb1ad337df9009955d2092bd999f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1503828b092d1414",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/1503828b092d1414",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478995968,
+        "stop" : 1653478996156,
+        "duration" : 188
+      }
+    }, {
+      "uid" : "9e86211b270dc7b4",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/9e86211b270dc7b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478961746,
+        "stop" : 1653478961943,
+        "duration" : 197
+      }
+    } ]
+  },
+  "82bf4ad9ce0420a3501c65427d25bb5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "2b0cab2ca60674f2",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/2b0cab2ca60674f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478660324,
+        "stop" : 1653478661025,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "a5479c761559ae09",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/a5479c761559ae09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478660324,
+        "stop" : 1653478661025,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "542f35be2d2dad10",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/542f35be2d2dad10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "3bd8465831b67d51",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/3bd8465831b67d51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "c620279977cd1233",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/c620279977cd1233",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "3145d44983584192",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/3145d44983584192",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "b25dfed23fd268af",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/b25dfed23fd268af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "be1ccbd14b4f6257",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/be1ccbd14b4f6257",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "c98fea5ce22f79f4",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/c98fea5ce22f79f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "170211606ae0afdf",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/170211606ae0afdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "c47f00d2a26b43b2",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/c47f00d2a26b43b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "c2ed7c878ca35b4e",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/c2ed7c878ca35b4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470460458,
+        "stop" : 1653470461145,
+        "duration" : 687
+      }
+    } ]
+  },
+  "fe3fc0fc8c6cef70f6ace3b2f16a96bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "9448f6637f934883",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/9448f6637f934883",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323991900,
+        "stop" : 1653323992694,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "e40b18251a992d13",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/e40b18251a992d13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323991900,
+        "stop" : 1653323992694,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "c6dbc9def913261a",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/c6dbc9def913261a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323991900,
+        "stop" : 1653323992694,
+        "duration" : 794
+      }
+    }, {
+      "uid" : "4ac5c6e19c97c5d4",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/4ac5c6e19c97c5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323991900,
+        "stop" : 1653323992694,
+        "duration" : 794
+      }
+    } ]
+  },
+  "8580daa5eaf9e009443f6ff9332757c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "8a7e6172d19746bf",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/8a7e6172d19746bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "1cbb9027f6ab865",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/1cbb9027f6ab865",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "67bd6d9b7b0a5bcd",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/67bd6d9b7b0a5bcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "8b5fc486d5faf38",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/8b5fc486d5faf38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "d240df88f5bf3032",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/d240df88f5bf3032",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "133b8909dbd5e54",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/133b8909dbd5e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "dd700b116e4a1aae",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/dd700b116e4a1aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472742743,
+        "stop" : 1653472743727,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "8cc8e41f0f75dac",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/8cc8e41f0f75dac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471732914,
+        "stop" : 1653471733801,
+        "duration" : 887
+      }
+    }, {
+      "uid" : "902fa42085162b07",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/902fa42085162b07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471732914,
+        "stop" : 1653471733801,
+        "duration" : 887
+      }
+    }, {
+      "uid" : "516a1242590f7e7f",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/516a1242590f7e7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471395162,
+        "stop" : 1653471396018,
+        "duration" : 856
+      }
+    }, {
+      "uid" : "809891b6f1009a92",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/809891b6f1009a92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470530406,
+        "stop" : 1653470531294,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "db02750fd661f226",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/db02750fd661f226",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470530406,
+        "stop" : 1653470531294,
+        "duration" : 888
+      }
+    } ]
+  },
+  "fff1dc46cd9151283431529ec2efdb59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "852cc09fd5bf0ecc",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/852cc09fd5bf0ecc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478658888,
+        "stop" : 1653478659592,
+        "duration" : 704
+      }
+    }, {
+      "uid" : "cd9f1c223fac02f4",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/cd9f1c223fac02f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478658888,
+        "stop" : 1653478659592,
+        "duration" : 704
+      }
+    }, {
+      "uid" : "65aba2128ef8cb7a",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/65aba2128ef8cb7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "b23fcd30bbbe387e",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/b23fcd30bbbe387e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "babf67b789e31c83",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/babf67b789e31c83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "a722763f7ed60a75",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/a722763f7ed60a75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "da23f5222a20b60",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/da23f5222a20b60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "16161e262aaf23c4",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/16161e262aaf23c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "b61967f804ac84a4",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/b61967f804ac84a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "59ae1d354e71b2e0",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/59ae1d354e71b2e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "5a008a30a5447031",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/5a008a30a5447031",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "b9a708c479bab9e7",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/b9a708c479bab9e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470458977,
+        "stop" : 1653470459739,
+        "duration" : 762
+      }
+    } ]
+  },
+  "ec18c1ba9df76574c8fa9692de1fd4c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2d61ecc346adc53e",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/2d61ecc346adc53e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653478974586,
+        "stop" : 1653478974586,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "582e1a2d6e8a75b3",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/582e1a2d6e8a75b3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653478935125,
+        "stop" : 1653478935125,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5a29d5649d395f4aea9ebfb247c35dd1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4195e58713386076",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/4195e58713386076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478984122,
+        "stop" : 1653478984342,
+        "duration" : 220
+      }
+    }, {
+      "uid" : "310df1db8901f600",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/310df1db8901f600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478949993,
+        "stop" : 1653478950258,
+        "duration" : 265
+      }
+    } ]
+  },
+  "1a4bad0bda975b7b712c97aa5f043207" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c06a82caca13dec4",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/c06a82caca13dec4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424186974,
+        "stop" : 1653424187804,
+        "duration" : 830
+      }
+    } ]
+  },
+  "d8bb15129995daed3b17de71de214109" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c65e83957ac7a211",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/c65e83957ac7a211",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424166153,
+        "stop" : 1653424185303,
+        "duration" : 19150
+      }
+    } ]
+  },
+  "376db45e5ddcb234f2ddb5b022d5e509" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 6,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "e9ded0209e735e85",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/e9ded0209e735e85",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653424398056,
+        "stop" : 1653424398056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4c145e633a42b18f",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/4c145e633a42b18f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653324511294,
+        "stop" : 1653324511294,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "14042eb44dcde3b9",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/14042eb44dcde3b9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653324314661,
+        "stop" : 1653324314661,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6c00b89defc549a2",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/6c00b89defc549a2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653324120254,
+        "stop" : 1653324120254,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "74ea0d6368fbb",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/74ea0d6368fbb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653320846754,
+        "stop" : 1653320846754,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dcd22d8db128c94c",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/dcd22d8db128c94c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653319453425,
+        "stop" : 1653319453425,
+        "duration" : 0
+      }
+    } ]
+  },
+  "995333f77b17ff91514082328aaa1c6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "9e136a14f8344f71",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/9e136a14f8344f71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "db25e0db08fbcdd4",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/db25e0db08fbcdd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "28ddb8d370ad3360",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/28ddb8d370ad3360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "57712990a8441790",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/57712990a8441790",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "f91a0768015787e6",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/f91a0768015787e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "5d774414e6c4e942",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/5d774414e6c4e942",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "cfb6ae69becbb112",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/cfb6ae69becbb112",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472741863,
+        "stop" : 1653472742738,
+        "duration" : 875
+      }
+    }, {
+      "uid" : "b419046431cd8db6",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/b419046431cd8db6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471732052,
+        "stop" : 1653471732910,
+        "duration" : 858
+      }
+    }, {
+      "uid" : "1f71dd2b01dc2ed6",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/1f71dd2b01dc2ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471732052,
+        "stop" : 1653471732910,
+        "duration" : 858
+      }
+    }, {
+      "uid" : "dcfd87281ab0d6a6",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/dcfd87281ab0d6a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471394252,
+        "stop" : 1653471395156,
+        "duration" : 904
+      }
+    }, {
+      "uid" : "1a1855ef1c11f8ba",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/1a1855ef1c11f8ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470529524,
+        "stop" : 1653470530403,
+        "duration" : 879
+      }
+    }, {
+      "uid" : "1e4a1bd478de38e8",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/1e4a1bd478de38e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470529524,
+        "stop" : 1653470530403,
+        "duration" : 879
+      }
+    } ]
+  },
+  "7087706259b9a31577c91287ab2fb1de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "5e8cbbd759bd9f5e",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/5e8cbbd759bd9f5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424395460,
+        "stop" : 1653424395901,
+        "duration" : 441
+      }
+    }, {
+      "uid" : "93622c0d0d25ec21",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/93622c0d0d25ec21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324508943,
+        "stop" : 1653324509195,
+        "duration" : 252
+      }
+    }, {
+      "uid" : "f780aef37eb789ea",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/f780aef37eb789ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324312286,
+        "stop" : 1653324312548,
+        "duration" : 262
+      }
+    }, {
+      "uid" : "38a1d35b1730fdfb",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/38a1d35b1730fdfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324117869,
+        "stop" : 1653324118137,
+        "duration" : 268
+      }
+    }, {
+      "uid" : "7e3507c1fc05a890",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/7e3507c1fc05a890",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653320844302,
+        "stop" : 1653320844634,
+        "duration" : 332
+      }
+    }, {
+      "uid" : "cba5b0f47ad3d30a",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/cba5b0f47ad3d30a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653319450948,
+        "stop" : 1653319451299,
+        "duration" : 351
+      }
+    } ]
+  },
+  "226234387d207661da7d3853356842ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "586c641edd31c2c6",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/586c641edd31c2c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323992703,
+        "stop" : 1653323993390,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "e505562e0535ab0a",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/e505562e0535ab0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323992703,
+        "stop" : 1653323993390,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "ba1215fc39cd7ea5",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/ba1215fc39cd7ea5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323992703,
+        "stop" : 1653323993390,
+        "duration" : 687
+      }
+    }, {
+      "uid" : "a4164ba55edc649f",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/a4164ba55edc649f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323992703,
+        "stop" : 1653323993390,
+        "duration" : 687
+      }
+    } ]
+  },
+  "9b2e399ef4830f0d95a3926306b6f972" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "c201649f19b8404c",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/c201649f19b8404c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "2fe00b814681f7a0",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/2fe00b814681f7a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "7a715a000ad31308",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/7a715a000ad31308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "c24834395ad31e0c",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/c24834395ad31e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "ce35b71ab0f217f2",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/ce35b71ab0f217f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "7446ec75e8b1bed5",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/7446ec75e8b1bed5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "3b7c58b56ab8210",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/3b7c58b56ab8210",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472745365,
+        "stop" : 1653472746140,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "b30c551a9d21ffb6",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/b30c551a9d21ffb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471735384,
+        "stop" : 1653471736174,
+        "duration" : 790
+      }
+    }, {
+      "uid" : "fbfea47c92ae29d6",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/fbfea47c92ae29d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471735384,
+        "stop" : 1653471736174,
+        "duration" : 790
+      }
+    }, {
+      "uid" : "670e6ef19f5eb1fc",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/670e6ef19f5eb1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471397529,
+        "stop" : 1653471398301,
+        "duration" : 772
+      }
+    }, {
+      "uid" : "31cab3af1e1b3a31",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/31cab3af1e1b3a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470532833,
+        "stop" : 1653470533613,
+        "duration" : 780
+      }
+    }, {
+      "uid" : "e03db90a6ae70f73",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/e03db90a6ae70f73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470532833,
+        "stop" : 1653470533613,
+        "duration" : 780
+      }
+    } ]
+  },
+  "775ddb3628fef051de7dc0400a6ee61a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "a3bddfe6b3207301",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/a3bddfe6b3207301",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323994098,
+        "stop" : 1653323994780,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "6d078ebc9ef7678",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/6d078ebc9ef7678",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323994098,
+        "stop" : 1653323994780,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "57d2848539b4352b",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/57d2848539b4352b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323994098,
+        "stop" : 1653323994780,
+        "duration" : 682
+      }
+    }, {
+      "uid" : "af3cd132047bb53c",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/af3cd132047bb53c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653323994098,
+        "stop" : 1653323994780,
+        "duration" : 682
+      }
+    } ]
+  },
+  "ca993651a9a5e895fdda0d15f0726175" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "c500c20300c61c27",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/c500c20300c61c27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "efa0ae93c6fefccf",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/efa0ae93c6fefccf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "ae2f59575821980e",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/ae2f59575821980e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "99d8409c68c50634",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/99d8409c68c50634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "a513b38035e3ce8d",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/a513b38035e3ce8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "8704d6eb2a9fc8aa",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/8704d6eb2a9fc8aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "f858a98be7f71a02",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/f858a98be7f71a02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472743729,
+        "stop" : 1653472744479,
+        "duration" : 750
+      }
+    }, {
+      "uid" : "2c823c5ffa2001b4",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/2c823c5ffa2001b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471733806,
+        "stop" : 1653471734597,
+        "duration" : 791
+      }
+    }, {
+      "uid" : "bc6eea637ce10f64",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/bc6eea637ce10f64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471733806,
+        "stop" : 1653471734597,
+        "duration" : 791
+      }
+    }, {
+      "uid" : "af6857c91c746de8",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/af6857c91c746de8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471396020,
+        "stop" : 1653471396777,
+        "duration" : 757
+      }
+    }, {
+      "uid" : "b466f30d7a59ca7f",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/b466f30d7a59ca7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470531297,
+        "stop" : 1653470532063,
+        "duration" : 766
+      }
+    }, {
+      "uid" : "e0866591695cc6ad",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/e0866591695cc6ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470531297,
+        "stop" : 1653470532063,
+        "duration" : 766
+      }
+    } ]
+  },
+  "36d5609975e3e6c2d4e562f8fc5b4539" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e13110e7505cd681",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/e13110e7505cd681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478972264,
+        "stop" : 1653478972500,
+        "duration" : 236
+      }
+    }, {
+      "uid" : "b1ec3a0bbf5ce76f",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/b1ec3a0bbf5ce76f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478932803,
+        "stop" : 1653478933037,
+        "duration" : 234
+      }
+    } ]
+  },
+  "cf4cebe2b372d641decb99b22f7d4df4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "8f9a6e388f5ae30e",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/8f9a6e388f5ae30e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478658083,
+        "stop" : 1653478658886,
+        "duration" : 803
+      }
+    }, {
+      "uid" : "a0244f4e0abe36a9",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/a0244f4e0abe36a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478658083,
+        "stop" : 1653478658886,
+        "duration" : 803
+      }
+    }, {
+      "uid" : "a42c008a1e4737fe",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/a42c008a1e4737fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "717bd1fdd66ac767",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/717bd1fdd66ac767",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "6ae67f8d6a468511",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/6ae67f8d6a468511",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "255c91a4b3fac6a4",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/255c91a4b3fac6a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "2405ad56a285b7f2",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/2405ad56a285b7f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "990a207183a79a67",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/990a207183a79a67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "6fe01c336d184c49",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/6fe01c336d184c49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "f58ec1596a299aca",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/f58ec1596a299aca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "80bef90db18fb8ce",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/80bef90db18fb8ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    }, {
+      "uid" : "6459361aecc149e8",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/6459361aecc149e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470441978,
+        "stop" : 1653470458972,
+        "duration" : 16994
+      }
+    } ]
+  },
+  "fa767d2108d34f40207f8e4170567295" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "8735aaa0a569ba64",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/8735aaa0a569ba64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478659594,
+        "stop" : 1653478660322,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "2931083004b0ac6a",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/2931083004b0ac6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478659594,
+        "stop" : 1653478660322,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "cbaa71749a8360d4",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/cbaa71749a8360d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "df1134cd8d813bbd",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/df1134cd8d813bbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "899efd893e633fd6",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/899efd893e633fd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "9299cf9fddce2dd3",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/9299cf9fddce2dd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "1b5459f21c6083ad",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/1b5459f21c6083ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "f04b49218ad6d739",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/f04b49218ad6d739",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "9ae991647e33f4ff",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/9ae991647e33f4ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "9d03a185cf2ebffc",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/9d03a185cf2ebffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "50086b01b4294ca0",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/50086b01b4294ca0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    }, {
+      "uid" : "13447d4848e5843c",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/13447d4848e5843c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470459742,
+        "stop" : 1653470460456,
+        "duration" : 714
+      }
+    } ]
+  },
+  "be045083342738c4de4d48b1afc90a4c" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "591a825a347b12fb",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/591a825a347b12fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "304b540d9fb9a445",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/304b540d9fb9a445",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "5443431c0db0430e",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/5443431c0db0430e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "8ba911a3af4152f6",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/8ba911a3af4152f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "c81399221f0fcfaf",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/c81399221f0fcfaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "c615353c71fcc380",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/c615353c71fcc380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "cd7063794b2afee9",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/cd7063794b2afee9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472739972,
+        "stop" : 1653472740971,
+        "duration" : 999
+      }
+    }, {
+      "uid" : "3c0f214ac5583212",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/3c0f214ac5583212",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653471730410,
+        "stop" : 1653471731185,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "8222174b86e5ad0b",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/8222174b86e5ad0b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653471730410,
+        "stop" : 1653471731185,
+        "duration" : 775
+      }
+    }, {
+      "uid" : "c3cd4e534d4955ce",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/c3cd4e534d4955ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471392387,
+        "stop" : 1653471393396,
+        "duration" : 1009
+      }
+    }, {
+      "uid" : "3a0f1d5cb3c75e28",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/3a0f1d5cb3c75e28",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653470527620,
+        "stop" : 1653470528412,
+        "duration" : 792
+      }
+    }, {
+      "uid" : "c38a445a73093dfc",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/c38a445a73093dfc",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653470527620,
+        "stop" : 1653470528412,
+        "duration" : 792
+      }
+    } ]
+  },
+  "e424cfb66b9e55b39ba1a75bcfe25315" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "11ea8e9dbbafec69",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/11ea8e9dbbafec69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "3c69e997e8b04182",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/3c69e997e8b04182",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "1d2e4263e2232683",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/1d2e4263e2232683",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "7f30fe975d71d1a6",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/7f30fe975d71d1a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "6b76a5f8b3605664",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/6b76a5f8b3605664",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "eb4b0c80e0c1ffbc",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/eb4b0c80e0c1ffbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "4ca26155adc38351",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/4ca26155adc38351",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472740977,
+        "stop" : 1653472741860,
+        "duration" : 883
+      }
+    }, {
+      "uid" : "36d54b10ae54486b",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/36d54b10ae54486b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471731200,
+        "stop" : 1653471732049,
+        "duration" : 849
+      }
+    }, {
+      "uid" : "fe5867f65bdc5eba",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/fe5867f65bdc5eba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471731200,
+        "stop" : 1653471732049,
+        "duration" : 849
+      }
+    }, {
+      "uid" : "ade4b533cca0cfcf",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/ade4b533cca0cfcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471393398,
+        "stop" : 1653471394249,
+        "duration" : 851
+      }
+    }, {
+      "uid" : "1fcfb53890f6b5a7",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/1fcfb53890f6b5a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470528525,
+        "stop" : 1653470529520,
+        "duration" : 995
+      }
+    }, {
+      "uid" : "21fc4b04d61b7236",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/21fc4b04d61b7236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470528525,
+        "stop" : 1653470529520,
+        "duration" : 995
+      }
+    } ]
+  },
+  "67d90957c18051076a1c0246b6a94045" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "adada714147fcc64",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/adada714147fcc64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424402631,
+        "stop" : 1653424403106,
+        "duration" : 475
+      }
+    }, {
+      "uid" : "92a8a504e6ecae45",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/92a8a504e6ecae45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324514750,
+        "stop" : 1653324514997,
+        "duration" : 247
+      }
+    }, {
+      "uid" : "73b68d8fb2dd2239",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/73b68d8fb2dd2239",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324318508,
+        "stop" : 1653324318750,
+        "duration" : 242
+      }
+    }, {
+      "uid" : "3757ffb9cdd404f1",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/3757ffb9cdd404f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324124048,
+        "stop" : 1653324124304,
+        "duration" : 256
+      }
+    }, {
+      "uid" : "ec2681b2048f6ab3",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/ec2681b2048f6ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653320850883,
+        "stop" : 1653320851284,
+        "duration" : 401
+      }
+    }, {
+      "uid" : "e080233243f58002",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/e080233243f58002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653319457306,
+        "stop" : 1653319457623,
+        "duration" : 317
+      }
+    } ]
+  },
+  "4534e029bef9a2f69940d9a448a6b4d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "807bed68ee13aa92",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/807bed68ee13aa92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424507608,
+        "stop" : 1653424507995,
+        "duration" : 387
+      }
+    }, {
+      "uid" : "f9d4e9e895895538",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/f9d4e9e895895538",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324526457,
+        "stop" : 1653324526730,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "583ffa007aa5dd16",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/583ffa007aa5dd16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324135718,
+        "stop" : 1653324135975,
+        "duration" : 257
+      }
+    }, {
+      "uid" : "c9c449a76d293264",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/c9c449a76d293264",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324135718,
+        "stop" : 1653324135975,
+        "duration" : 257
+      }
+    }, {
+      "uid" : "c07db0ed5cfcb8c2",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/c07db0ed5cfcb8c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653320863857,
+        "stop" : 1653320864219,
+        "duration" : 362
+      }
+    }, {
+      "uid" : "297684377d2d9ffe",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/297684377d2d9ffe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653319479537,
+        "stop" : 1653319479847,
+        "duration" : 310
+      }
+    } ]
+  },
+  "679bf94a947258d4f11a793c5594fb20" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9bb18947187b135",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/9bb18947187b135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478990214,
+        "stop" : 1653478990470,
+        "duration" : 256
+      }
+    }, {
+      "uid" : "2dbc792218a94164",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/2dbc792218a94164",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653478955770,
+        "stop" : 1653478956011,
+        "duration" : 241
+      }
+    } ]
+  },
+  "6c6e465aa093a34efdae18b333fb368a" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "d6c5504862439b1c",
+      "reportUrl" : "http://localhost:8080/job/regraition/2/allure/#testresult/d6c5504862439b1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "cbe420977234202d",
+      "reportUrl" : "http://localhost:8080/job/regraition/1/allure/#testresult/cbe420977234202d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "eb0ee96858a3673d",
+      "reportUrl" : "http://localhost:8080/job/first_job/37/allure/#testresult/eb0ee96858a3673d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "14c883b34a2c5086",
+      "reportUrl" : "http://localhost:8080/job/first_job/36/allure/#testresult/14c883b34a2c5086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "d5cea5a4114d00d6",
+      "reportUrl" : "http://localhost:8080/job/first_job/35/allure/#testresult/d5cea5a4114d00d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "954ca4ca8923b485",
+      "reportUrl" : "http://localhost:8080/job/first_job/34/allure/#testresult/954ca4ca8923b485",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "e4085428daacd0bb",
+      "reportUrl" : "http://localhost:8080/job/first_job/33/allure/#testresult/e4085428daacd0bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472738875,
+        "stop" : 1653472739970,
+        "duration" : 1095
+      }
+    }, {
+      "uid" : "fd7207a14f1a2671",
+      "reportUrl" : "http://localhost:8080/job/first_job/32/allure/#testresult/fd7207a14f1a2671",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653471729478,
+        "stop" : 1653471730345,
+        "duration" : 867
+      }
+    }, {
+      "uid" : "81af73fe88670ebd",
+      "reportUrl" : "http://localhost:8080/job/first_job/31/allure/#testresult/81af73fe88670ebd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "time" : {
+        "start" : 1653471729478,
+        "stop" : 1653471730345,
+        "duration" : 867
+      }
+    }, {
+      "uid" : "7c7a03a77fe2f1de",
+      "reportUrl" : "http://localhost:8080/job/first_job/30/allure/#testresult/7c7a03a77fe2f1de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471391280,
+        "stop" : 1653471392384,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "b76d41cbfdfb9652",
+      "reportUrl" : "http://localhost:8080/job/first_job/29/allure/#testresult/b76d41cbfdfb9652",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470526523,
+        "stop" : 1653470527611,
+        "duration" : 1088
+      }
+    }, {
+      "uid" : "e6bf988f9e2d5a0f",
+      "reportUrl" : "http://localhost:8080/job/first_job/28/allure/#testresult/e6bf988f9e2d5a0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653470526523,
+        "stop" : 1653470527611,
+        "duration" : 1088
+      }
+    } ]
+  },
+  "0ac41bf0cb57ebc5212b5113284fb78a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "e00c4664ab46c84a",
+      "reportUrl" : "http://localhost:8080/job/first_job/27/allure/#testresult/e00c4664ab46c84a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653424410260,
+        "stop" : 1653424410654,
+        "duration" : 394
+      }
+    }, {
+      "uid" : "b6087dc23dfae336",
+      "reportUrl" : "http://localhost:8080/job/first_job/23/allure/#testresult/b6087dc23dfae336",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324520595,
+        "stop" : 1653324520837,
+        "duration" : 242
+      }
+    }, {
+      "uid" : "a51c5b596877fbb8",
+      "reportUrl" : "http://localhost:8080/job/first_job/22/allure/#testresult/a51c5b596877fbb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324129988,
+        "stop" : 1653324130218,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "a9651ea05ee11430",
+      "reportUrl" : "http://localhost:8080/job/first_job/21/allure/#testresult/a9651ea05ee11430",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653324129988,
+        "stop" : 1653324130218,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "d44e78597847980a",
+      "reportUrl" : "http://localhost:8080/job/first_job/20/allure/#testresult/d44e78597847980a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653320857456,
+        "stop" : 1653320857765,
+        "duration" : 309
+      }
+    }, {
+      "uid" : "5ec0f7ab6b778c3f",
+      "reportUrl" : "http://localhost:8080/job/first_job/19/allure/#testresult/5ec0f7ab6b778c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653319473392,
+        "stop" : 1653319473749,
+        "duration" : 357
+      }
+    } ]
+  }
+}
