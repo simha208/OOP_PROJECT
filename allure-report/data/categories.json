@@ -7,7 +7,7 @@
       "name" : "AssertionError: assert 200 == 400\n +  where 200 = <Response [200]>.status_code",
       "children" : [ {
         "name" : "test_incorrect_email_register",
-        "uid" : "25f439256f99ca",
+        "uid" : "9b5ee86cffd4e1a6",
         "parentUid" : "5db93c3a6941b61964bd4a0ed7236a4a",
         "status" : "failed",
         "time" : {
@@ -20,6 +20,23 @@
         "parameters" : [ ]
       } ],
       "uid" : "5db93c3a6941b61964bd4a0ed7236a4a"
+    }, {
+      "name" : "AssertionError: assert 400 == 200\n +  where 400 = <Response [400]>.status_code",
+      "children" : [ {
+        "name" : "test_success_register",
+        "uid" : "cb85bcf2d8b281ad",
+        "parentUid" : "70f5e75591870ccc2610fe43b73222e0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653551655639,
+          "stop" : 1653551656545,
+          "duration" : 906
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "70f5e75591870ccc2610fe43b73222e0"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

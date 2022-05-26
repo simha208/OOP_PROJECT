@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "72e7a9f9f5ec7dfc",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/72e7a9f9f5ec7dfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653479779411,
+        "stop" : 1653479779636,
+        "duration" : 225
+      }
+    }, {
       "uid" : "abc6e3ee8b4ee32e",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/abc6e3ee8b4ee32e",
       "status" : "passed",
@@ -125,11 +134,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "f2acd010df50e1d5",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/f2acd010df50e1d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550277660,
+        "stop" : 1653550278428,
+        "duration" : 768
+      }
+    }, {
       "uid" : "8a272cf42f524f11",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/8a272cf42f524f11",
       "status" : "passed",
@@ -318,11 +336,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "9432ace98f2569a",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/9432ace98f2569a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653480306736,
+        "stop" : 1653480307458,
+        "duration" : 722
+      }
+    }, {
       "uid" : "f01077ec74e5d4a2",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/f01077ec74e5d4a2",
       "status" : "passed",
@@ -504,11 +531,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "ca207302ee0aad7",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/ca207302ee0aad7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653479797156,
+        "stop" : 1653479797367,
+        "duration" : 211
+      }
+    }, {
       "uid" : "d0debac628cfe1d0",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/d0debac628cfe1d0",
       "status" : "passed",
@@ -560,11 +596,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "9456612c1c7d8a8c",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/9456612c1c7d8a8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653480306046,
+        "stop" : 1653480306734,
+        "duration" : 688
+      }
+    }, {
       "uid" : "6b04b369090ecff3",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/6b04b369090ecff3",
       "status" : "passed",
@@ -753,11 +798,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "dabb0bdc029efd11",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/dabb0bdc029efd11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550275962,
+        "stop" : 1653550276843,
+        "duration" : 881
+      }
+    }, {
       "uid" : "7344a534553b102b",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/7344a534553b102b",
       "status" : "passed",
@@ -899,11 +953,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "c408b9e1c333fa2c",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/c408b9e1c333fa2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653480304575,
+        "stop" : 1653480305303,
+        "duration" : 728
+      }
+    }, {
       "uid" : "99ee485ac93fed97",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/99ee485ac93fed97",
       "status" : "passed",
@@ -1044,12 +1107,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 5,
+      "skipped" : 6,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "c55f012e6ee5bafb",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/c55f012e6ee5bafb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1653479775907,
+        "stop" : 1653479775907,
+        "duration" : 0
+      }
+    }, {
       "uid" : "6f6dc3912d0378f9",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/6f6dc3912d0378f9",
       "status" : "skipped",
@@ -1106,11 +1179,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "4282170689898b68",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/4282170689898b68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653479785449,
+        "stop" : 1653479785674,
+        "duration" : 225
+      }
+    }, {
       "uid" : "5168760207c8f97d",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/5168760207c8f97d",
       "status" : "passed",
@@ -1273,11 +1355,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "d7312778186b5ecc",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/d7312778186b5ecc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550275076,
+        "stop" : 1653550275954,
+        "duration" : 878
+      }
+    }, {
       "uid" : "dcd77d7be651c14f",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/dcd77d7be651c14f",
       "status" : "passed",
@@ -1531,11 +1622,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "bc65cf1564bf548a",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/bc65cf1564bf548a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550278438,
+        "stop" : 1653550279247,
+        "duration" : 809
+      }
+    }, {
       "uid" : "d6ad778d80e3d544",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/d6ad778d80e3d544",
       "status" : "passed",
@@ -1724,11 +1824,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "1afec74e3d49b12a",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/1afec74e3d49b12a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550276849,
+        "stop" : 1653550277657,
+        "duration" : 808
+      }
+    }, {
       "uid" : "86063e0943ec33a8",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/86063e0943ec33a8",
       "status" : "passed",
@@ -1870,11 +1979,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "7ee5da1e5d6a95c8",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/7ee5da1e5d6a95c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653479773471,
+        "stop" : 1653479773804,
+        "duration" : 333
+      }
+    }, {
       "uid" : "76535dd0b4a50be7",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/76535dd0b4a50be7",
       "status" : "passed",
@@ -1926,11 +2044,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "7b7fba6b9cb5e7f9",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/7b7fba6b9cb5e7f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653480303831,
+        "stop" : 1653480304573,
+        "duration" : 742
+      }
+    }, {
       "uid" : "12c8aa5006ae93e7",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/12c8aa5006ae93e7",
       "status" : "passed",
@@ -2072,11 +2199,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "7c6b12a97e9a43f2",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/7c6b12a97e9a43f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653480305306,
+        "stop" : 1653480306043,
+        "duration" : 737
+      }
+    }, {
       "uid" : "f76e2df0648a8a93",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/f76e2df0648a8a93",
       "status" : "passed",
@@ -2215,14 +2351,24 @@
   },
   "be045083342738c4de4d48b1afc90a4c" : {
     "statistic" : {
-      "failed" : 6,
+      "failed" : 7,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 9,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "25f439256f99ca",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/25f439256f99ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 200 == 400\n +  where 200 = <Response [200]>.status_code",
+      "time" : {
+        "start" : 1653550139340,
+        "stop" : 1653550140465,
+        "duration" : 1125
+      }
+    }, {
       "uid" : "9176b58cec593a8d",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/9176b58cec593a8d",
       "status" : "failed",
@@ -2370,11 +2516,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "8a88d9afd3bd9d58",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/8a88d9afd3bd9d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550274222,
+        "stop" : 1653550275068,
+        "duration" : 846
+      }
+    }, {
       "uid" : "53e02d5e5d797bd0",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/53e02d5e5d797bd0",
       "status" : "passed",
@@ -2646,11 +2801,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "25bf8003f51dbb37",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/25bf8003f51dbb37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653479791352,
+        "stop" : 1653479791587,
+        "duration" : 235
+      }
+    }, {
       "uid" : "4ac390a6e700a50",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/4ac390a6e700a50",
       "status" : "passed",
@@ -2702,11 +2866,20 @@
       "failed" : 5,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "c9099e196683976",
+      "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure/#testresult/c9099e196683976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653550273119,
+        "stop" : 1653550274219,
+        "duration" : 1100
+      }
+    }, {
       "uid" : "93b648a42b00df41",
       "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure/#testresult/93b648a42b00df41",
       "status" : "failed",

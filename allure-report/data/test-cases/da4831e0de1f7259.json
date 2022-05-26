@@ -1,0 +1,54 @@
+{
+  "uid" : "da4831e0de1f7259",
+  "name" : "test_ProfilePicNull_register",
+  "fullName" : "Server.API.test_api_register.TestRegister#test_ProfilePicNull_register",
+  "historyId" : "5822824577f4a86a5370dd193ca8a03c",
+  "time" : {
+    "start" : 1653472744482,
+    "stop" : 1653472745362,
+    "duration" : 880
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Server.API"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-89E6TIG"
+  }, {
+    "name" : "thread",
+    "value" : "15640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Server.API.test_api_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da4831e0de1f7259.json",
+  "parameterValues" : [ ]
+}

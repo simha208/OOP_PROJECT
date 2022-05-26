@@ -1,0 +1,54 @@
+{
+  "uid" : "88c08a5f2524acf7",
+  "name" : "test_incorrect_email_register",
+  "fullName" : "Server.API.test_api_register.TestRegister#test_incorrect_email_register",
+  "historyId" : "be045083342738c4de4d48b1afc90a4c",
+  "time" : {
+    "start" : 1653479280354,
+    "stop" : 1653479281373,
+    "duration" : 1019
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Server.API"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-89E6TIG"
+  }, {
+    "name" : "thread",
+    "value" : "12924-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Server.API.test_api_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88c08a5f2524acf7.json",
+  "parameterValues" : [ ]
+}

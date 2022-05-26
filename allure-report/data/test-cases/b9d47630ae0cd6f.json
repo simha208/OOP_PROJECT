@@ -1,0 +1,57 @@
+{
+  "uid" : "b9d47630ae0cd6f",
+  "name" : "test_PasswordNull_register",
+  "fullName" : "Server.API.test_api_register.TestRegister#test_PasswordNull_register",
+  "historyId" : "9b2e399ef4830f0d95a3926306b6f972",
+  "time" : {
+    "start" : 1653550144936,
+    "stop" : 1653550145795,
+    "duration" : 859
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "sanity"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Server.API"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-89E6TIG"
+  }, {
+    "name" : "thread",
+    "value" : "15492-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Server.API.test_api_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "sanity" ]
+  },
+  "source" : "b9d47630ae0cd6f.json",
+  "parameterValues" : [ ]
+}

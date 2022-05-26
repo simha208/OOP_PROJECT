@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/sanity/10/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
   "buildOrder" : 9,
   "reportUrl" : "http://localhost:8080/job/sanity/9/allure",
   "reportName" : "AllureReport",
@@ -101,9 +106,4 @@
   "data" : {
     "Product defects" : 1
   }
-}, {
-  "buildOrder" : 27,
-  "reportUrl" : "http://localhost:8080/job/first_job/27/allure",
-  "reportName" : "AllureReport",
-  "data" : { }
 } ]

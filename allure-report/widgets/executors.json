@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://localhost:8080/",
-  "buildOrder" : 5,
-  "buildName" : "Server side testing #5",
-  "buildUrl" : "http://localhost:8080/job/server%20side%20testing/5/",
+  "buildOrder" : 6,
+  "buildName" : "Server side testing #6",
+  "buildUrl" : "http://localhost:8080/job/server%20side%20testing/6/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure"
+  "reportUrl" : "http://localhost:8080/job/server%20side%20testing/6/allure"
 } ]

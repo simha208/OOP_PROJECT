@@ -4,10 +4,10 @@
     "uid" : "dcc093d37fa806e24cbb93a2f7c75060",
     "name" : "Server.API",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 12,
+      "passed" : 11,
       "unknown" : 0,
       "total" : 13
     }

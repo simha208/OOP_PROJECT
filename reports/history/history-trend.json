@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/server%20side%20testing/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 17,
+    "unknown" : 0,
+    "total" : 19
+  }
+}, {
   "buildOrder" : 4,
   "reportUrl" : "http://localhost:8080/job/server%20side%20testing/4/allure",
   "reportName" : "AllureReport",
@@ -225,17 +237,5 @@
     "passed" : 0,
     "unknown" : 0,
     "total" : 0
-  }
-}, {
-  "buildOrder" : 23,
-  "reportUrl" : "http://localhost:8080/job/first_job/23/allure",
-  "reportName" : "AllureReport",
-  "data" : {
-    "failed" : 0,
-    "broken" : 0,
-    "skipped" : 1,
-    "passed" : 9,
-    "unknown" : 0,
-    "total" : 10
   }
 } ]
