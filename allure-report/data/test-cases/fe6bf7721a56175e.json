@@ -1,0 +1,54 @@
+{
+  "uid" : "fe6bf7721a56175e",
+  "name" : "test_emailNull_register",
+  "fullName" : "Server.API.test_api_register.TestRegister#test_emailNull_register",
+  "historyId" : "8580daa5eaf9e009443f6ff9332757c9",
+  "time" : {
+    "start" : 1653471190554,
+    "stop" : 1653471191409,
+    "duration" : 855
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Server.API"
+  }, {
+    "name" : "suite",
+    "value" : "test_api_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-89E6TIG"
+  }, {
+    "name" : "thread",
+    "value" : "17692-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Server.API.test_api_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe6bf7721a56175e.json",
+  "parameterValues" : [ ]
+}

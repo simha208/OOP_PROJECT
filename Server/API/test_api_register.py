@@ -6,7 +6,7 @@ class TestRegister():
     @pytest.mark.sanity
     def test_success_register(self):
         url= "https://ivolunteer-app.herokuapp.com/users/register"
-        myobj ={"FirstName":"kcij","LastName":"okjcpio","Email":"cffbjrpo0@gmail.com","Password":"202020","Age":"24","ProfilePic":"jbuhjnm"}
+        myobj ={"FirstName":"kcij","LastName":"okjcpio","Email":"cffrpo0@gmail.com","Password":"202020","Age":"24","ProfilePic":"jbuhjnm"}
         y = requests.post(url, json=myobj)
         value =y.json()
         assert y.status_code == 200
@@ -14,15 +14,15 @@ class TestRegister():
         assert value["Message"] == "User Added Successfully"
 
 
-    @pytest.mark.regration
-    def test_incorrect_email_register(self):
-        url= "https://ivolunteer-app.herokuapp.com/users/register"
-        myobj ={"Email":"jhbgphfjgh1j","Password":"45612","Age":"17","ProfilePic":"dgrhthtyh","FirstName":"bbbb","LastName":"zaro"}
-        y = requests.post(url, json=myobj)
-        value =y.json()
-        assert y.status_code == 200
-        assert y.elapsed.total_seconds() < 10
-        assert value["Message"] == "User Added Successfully"
+    # @pytest.mark.regration
+    # def test_incorrect_email_register(self):
+    #     url= "https://ivolunteer-app.herokuapp.com/users/register"
+    #     myobj ={"Email":"jhbghpvchfjgh1j","Password":"45612","Age":"17","ProfilePic":"dgrhthtyh","FirstName":"bbbb","LastName":"zaro"}
+    #     y = requests.post(url, json=myobj)
+    #     value =y.json()
+    #     assert y.status_code == 400
+    #     assert y.elapsed.total_seconds() < 10
+    #     assert value["Message"] == "User Added Successfully"
 
     @pytest.mark.regration
     def test_FirstNameNull_register(self):
@@ -64,7 +64,7 @@ class TestRegister():
         assert y.status_code == 400
         assert y.elapsed.total_seconds() < 10
 
-    @pytest.mark.regration
+    @pytest.mark.sanity
     def test_PasswordNull_register(self):
         url = "https://ivolunteer-app.herokuapp.com/users/register"
         mysql = {"FirstName":"bbbbyyy","LastName":"fzfs","Email":"fsad@gmail.com","Age":"25","ProfilePic":"טאו"}

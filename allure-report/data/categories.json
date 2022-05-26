@@ -1,5 +1,26 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 200 == 400\n +  where 200 = <Response [200]>.status_code",
+      "children" : [ {
+        "name" : "test_incorrect_email_register",
+        "uid" : "25f439256f99ca",
+        "parentUid" : "5db93c3a6941b61964bd4a0ed7236a4a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653550139340,
+          "stop" : 1653550140465,
+          "duration" : 1125
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5db93c3a6941b61964bd4a0ed7236a4a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }

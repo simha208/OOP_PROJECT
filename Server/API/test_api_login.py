@@ -43,7 +43,7 @@ class TestLogin():
         assert x.elapsed.total_seconds() < 10
         
         
-       @pytest.mark.sanity
+       @pytest.mark.regration
     def test_correct(self):
         url = "https://wetechsocial.herokuapp.com/auth/login"
         myodj= {"email": "simhaamara@gmail.com", "password": "202020888"}
